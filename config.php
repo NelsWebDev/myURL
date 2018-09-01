@@ -1,4 +1,7 @@
-# myURL
-URL shortener featured in the "PHP in Action" series. 
-
-<h2>Coming Soon!</h2>
+<?php
+  define("MYSQL_HOST", ""); // mysql host
+  define("MYSQL_USER", ""); // mysql username 
+  define("MYSQL_PASS", ""); // mysql user password
+  define("MYSQL_DB", ""); // database url
+  define("BASEPATH", ""); // base url such as http://example.com
+?>
